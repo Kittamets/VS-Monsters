@@ -1,2 +1,7 @@
 # VS-Monsters
-made by using pygame
+
+LANG ;
+  - Python
+
+LIBRARY ;
+  - Pygame
