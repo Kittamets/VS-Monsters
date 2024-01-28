@@ -1,7 +1,1 @@
-# VS-Monsters
-
-LANG ;
-  - Python
-
-LIBRARY ;
-  - Pygame
+a basic shooting object game from scracth
